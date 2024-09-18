@@ -19,7 +19,7 @@
 
 ## Use Cases
 
-Most of the use cases for Sign Protocol are similar to Ethereum Attestation Service (EAS). Thus, it's advised to check them out [here](https://github.com/0xScratch/web3-builder-kit/blob/attestations/dev-resources/attestations/eas.md#use-cases)
+Most of the use cases for Sign Protocol are similar to Ethereum Attestation Service (EAS). Thus, it's advised to check them out [here](https://github.com/0xScratch/web3-builder-kit/blob/main/dev-resources/attestations/eas.md#use-cases)
 
 ## References and Links
 
@@ -33,4 +33,4 @@ Most of the use cases for Sign Protocol are similar to Ethereum Attestation Serv
 
 ## README Contributors
 
-@0xScratch
+[0xScratch](https://github.com/0xScratch)
