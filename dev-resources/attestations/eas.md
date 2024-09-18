@@ -8,6 +8,7 @@
 - [Use Cases](#use-cases)
 - [How It Works](#how-it-works)
 - [References and Links](#references-and-links)
+- [README Contributors](#readme-contributors)
 
 ## Key Features
 
