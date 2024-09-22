@@ -2,6 +2,13 @@
 
 [Blockscout](https://www.blockscout.com/) is an open-source blockchain explorer designed for Ethereum Virtual Machine (EVM) blockchains, including Ethereum and various Layer 2 solutions. It provides users with a straightforward interface to search and analyze blockchain data, such as transactions, account balances, and smart contracts. By supporting multiple EVM-compatible chains, Blockscout enhances transparency and accessibility within the blockchain ecosystem, making it easier for users and developers to interact with decentralized networks.
 
+## Table of Contents
+
+- [Key Features](#key-features)
+- [Use Cases](#use-cases)
+- [References and Links](#references-and-links)
+- [README Contributors](#readme-contributors)
+
 ## Key Features
 
 - **Open Source Development**: Blockscout's code is community-driven and available for anyone to use, explore, and improve.
