@@ -2,6 +2,8 @@
 
 This repository comprises of the leading web3-related tools, resources, frameworks, and guides that can help developers ace their blockchain projects as well as hackathons.
 
+We welcome contributions from the community to help us expand and improve the Web3 Builder Kit. If you have a tool, resource, or guide that you believe would benefit developers working in the blockchain space, please refer to our [contribution guidelines](/CONTRIBUTING.md) for more information on how to contribute.
+
 ## What was the need?
 
 - The blockchain ecosystem is vast and ever-evolving, with new tools and technologies being introduced regularly. For developers looking to build decentralized applications (dApps) or explore blockchain development, it can be challenging to navigate this landscape and identify the most suitable resources for their projects.
@@ -11,7 +13,3 @@ This repository comprises of the leading web3-related tools, resources, framewor
 
 - There are vast number of categories that are covered in this repository and this number will definitely increase with time.
 - Within each resource, one gets to understand **what the tool/service is about**, its **key-features**, some of the **use cases** which will help in understanding the practical applications of the tool/service, and a **list of references and links** for further exploration.
-
-## Contributing to the Web3 Builder Kit
-
-We welcome contributions from the community to help us expand and improve the Web3 Builder Kit. If you have a tool, resource, or guide that you believe would benefit developers working in the blockchain space, please refer to our [contribution guidelines](/CONTRIBUTING.md) for more information on how to contribute.
