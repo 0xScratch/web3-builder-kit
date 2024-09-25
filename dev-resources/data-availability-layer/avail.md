@@ -14,6 +14,13 @@
     - Enhances the overall security of the Avail network by pooling different tokens, including established and emerging ones.
     - Helps bring liquidity from other blockchains into the Avail ecosystem, strengthening its cryptoeconomic security.
 
+## Table of Contents
+
+- [Key Features](#key-features)
+- [Use Cases](#use-cases)
+- [References and Links](#references-and-links)
+- [README Contributors](#readme-contributors)
+
 ## Key Features
 
 - **Modular Architecture:** Avail's design allows developers to build applications without the complexities of traditional blockchain networks, simplifying integration and innovation.

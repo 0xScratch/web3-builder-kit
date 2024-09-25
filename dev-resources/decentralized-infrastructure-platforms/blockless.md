@@ -2,6 +2,12 @@
 
 [Blockless](https://blockless.network/) is a decentralized platform designed to launch, secure, and integrate [Network Neutral Applications (nnApps)](https://blockless.network/docs/protocol/core-concepts#network-neutral-applications-nnapps) at remarkable speeds. It aims to free applications from the limitations of traditional blockchain networks, allowing them to operate independently and efficiently. By utilizing a modular architecture, Blockless enables developers to select the best consensus mechanisms and dynamically allocate resources based on their application's needs.
 
+## Table of Contents
+
+- [Key Features](#key-features)
+- [References and Links](#references-and-links)
+- [README Contributors](#readme-contributors)
+
 ## Key Features
 
 - **Modular Application Architecture**: Blockless pioneers the modular application paradigm in Web3, allowing decentralized applications to run on specialized networks optimized for specific workloads while leveraging blockchain for authentication, value transfer, and system trust.
