@@ -33,4 +33,4 @@ Most of the use cases for Sign Protocol are similar to Ethereum Attestation Serv
 
 ## README Contributors
 
-[0xScratch](https://github.com/0xScratch)
+[@0xScratch](https://github.com/0xScratch)
