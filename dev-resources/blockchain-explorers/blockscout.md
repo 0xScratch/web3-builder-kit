@@ -39,4 +39,4 @@
 
 ## README Contributors
 
-[0xScratch](https://github.com/0xScratch)
+[@0xScratch](https://github.com/0xScratch)
