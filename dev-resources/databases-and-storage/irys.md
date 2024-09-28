@@ -2,6 +2,13 @@
 
 [Irys](https://irys.xyz/) is the first Layer 1 programmable [datachain](https://docs.irys.xyz/learn/learn-about-irys/what-is-datachain), designed to enhance how data is stored and executed on the blockchain. By integrating storage and execution, Irys allows developers to create innovative applications that can interact with real-time data directly on-chain, significantly expanding the range of web services that can be built. This unified platform addresses critical issues in current data storage solutions, such as inefficiency, complexity, and high costs, making it easier for developers to build scalable and decentralized applications. Ultimately, Irys aims to unlock the full potential of on-chain data, fostering a more robust and versatile blockchain ecosystem.
 
+## Table of Contents
+
+- [Key Features](#key-features)
+- [Use Cases](#use-cases)
+- [References and Links](#references-and-links)
+- [README Contributors](#readme-contributors)
+
 ## Key Features
 
 - **Dual-Ledger System**: Irys utilizes a [dual-ledger](https://docs.irys.xyz/learn/protocol/ledgers) architecture, comprising a Submit Ledger for temporary data storage and a Publish Ledger for verified, permanent data. This ensures data integrity and enhances security by only allowing verified data to be stored permanently.
