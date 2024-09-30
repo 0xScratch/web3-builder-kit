@@ -1,6 +1,6 @@
 # Lit Protocol
 
-Lit is a decentralized platform designed to enable developers to create secure and programmable applications without relying on centralized services. It provides tools for user-friendly wallet management, robust encryption, and decentralized compute capabilities, allowing users to control their data and access permissions seamlessly. With features like identity-based encryption and conditional signing, Lit facilitates innovative solutions for digital ownership, privacy-preserving AI, and cross-chain interactions in the evolving web3 ecosystem, empowering users to manage their digital identities and assets securely.
+[Lit Protocol](https://www.litprotocol.com/) is a decentralized platform designed to enable developers to create secure and programmable applications without relying on centralized services. It provides tools for user-friendly wallet management, robust encryption, and decentralized compute capabilities, allowing users to control their data and access permissions seamlessly. With features like identity-based encryption and conditional signing, Lit facilitates innovative solutions for digital ownership, privacy-preserving AI, and cross-chain interactions in the evolving web3 ecosystem, empowering users to manage their digital identities and assets securely.
 
 ## Table of Contents
 
